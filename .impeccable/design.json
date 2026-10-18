@@ -1,0 +1,683 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-18T08:59:03.515842+00:00",
+  "title": "Design System: 网络社区实验室",
+  "extensions": {
+    "colorMeta": {
+      "ground": {
+        "role": "neutral",
+        "displayName": "ground",
+        "tonalRamp": [
+          "oklch(15.00% 0.0062 255.47)",
+          "oklch(26.43% 0.0062 255.47)",
+          "oklch(37.86% 0.0062 255.47)",
+          "oklch(49.29% 0.0062 255.47)",
+          "oklch(60.71% 0.0062 255.47)",
+          "oklch(72.14% 0.0062 255.47)",
+          "oklch(83.57% 0.0062 255.47)",
+          "oklch(95.00% 0.0062 255.47)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.0000 89.88)",
+          "oklch(26.43% 0.0000 89.88)",
+          "oklch(37.86% 0.0000 89.88)",
+          "oklch(49.29% 0.0000 89.88)",
+          "oklch(60.71% 0.0000 89.88)",
+          "oklch(72.14% 0.0000 89.88)",
+          "oklch(83.57% 0.0000 89.88)",
+          "oklch(95.00% 0.0000 89.88)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.0547 255.58)",
+          "oklch(26.43% 0.0547 255.58)",
+          "oklch(37.86% 0.0547 255.58)",
+          "oklch(49.29% 0.0547 255.58)",
+          "oklch(60.71% 0.0547 255.58)",
+          "oklch(72.14% 0.0547 255.58)",
+          "oklch(83.57% 0.0547 255.58)",
+          "oklch(95.00% 0.0547 255.58)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "muted",
+        "tonalRamp": [
+          "oklch(15.00% 0.0487 254.03)",
+          "oklch(26.43% 0.0487 254.03)",
+          "oklch(37.86% 0.0487 254.03)",
+          "oklch(49.29% 0.0487 254.03)",
+          "oklch(60.71% 0.0487 254.03)",
+          "oklch(72.14% 0.0487 254.03)",
+          "oklch(83.57% 0.0487 254.03)",
+          "oklch(95.00% 0.0487 254.03)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "line",
+        "tonalRamp": [
+          "oklch(15.00% 0.0208 254.92)",
+          "oklch(26.43% 0.0208 254.92)",
+          "oklch(37.86% 0.0208 254.92)",
+          "oklch(49.29% 0.0208 254.92)",
+          "oklch(60.71% 0.0208 254.92)",
+          "oklch(72.14% 0.0208 254.92)",
+          "oklch(83.57% 0.0208 254.92)",
+          "oklch(95.00% 0.0208 254.92)"
+        ]
+      },
+      "blue": {
+        "role": "primary",
+        "displayName": "blue",
+        "tonalRamp": [
+          "oklch(15.00% 0.1691 261.27)",
+          "oklch(26.43% 0.1691 261.27)",
+          "oklch(37.86% 0.1691 261.27)",
+          "oklch(49.29% 0.1691 261.27)",
+          "oklch(60.71% 0.1691 261.27)",
+          "oklch(72.14% 0.1691 261.27)",
+          "oklch(83.57% 0.1691 261.27)",
+          "oklch(95.00% 0.1691 261.27)"
+        ]
+      },
+      "soft": {
+        "role": "primary",
+        "displayName": "soft",
+        "tonalRamp": [
+          "oklch(15.00% 0.0166 259.42)",
+          "oklch(26.43% 0.0166 259.42)",
+          "oklch(37.86% 0.0166 259.42)",
+          "oklch(49.29% 0.0166 259.42)",
+          "oklch(60.71% 0.0166 259.42)",
+          "oklch(72.14% 0.0166 259.42)",
+          "oklch(83.57% 0.0166 259.42)",
+          "oklch(95.00% 0.0166 259.42)"
+        ]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "focus",
+        "tonalRamp": [
+          "oklch(15.00% 0.1691 261.27)",
+          "oklch(26.43% 0.1691 261.27)",
+          "oklch(37.86% 0.1691 261.27)",
+          "oklch(49.29% 0.1691 261.27)",
+          "oklch(60.71% 0.1691 261.27)",
+          "oklch(72.14% 0.1691 261.27)",
+          "oklch(83.57% 0.1691 261.27)",
+          "oklch(95.00% 0.1691 261.27)"
+        ]
+      },
+      "graph-paper": {
+        "role": "neutral",
+        "displayName": "graph-paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.0029 264.54)",
+          "oklch(26.43% 0.0029 264.54)",
+          "oklch(37.86% 0.0029 264.54)",
+          "oklch(49.29% 0.0029 264.54)",
+          "oklch(60.71% 0.0029 264.54)",
+          "oklch(72.14% 0.0029 264.54)",
+          "oklch(83.57% 0.0029 264.54)",
+          "oklch(95.00% 0.0029 264.54)"
+        ]
+      },
+      "aside-paper": {
+        "role": "neutral",
+        "displayName": "aside-paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.0029 264.54)",
+          "oklch(26.43% 0.0029 264.54)",
+          "oklch(37.86% 0.0029 264.54)",
+          "oklch(49.29% 0.0029 264.54)",
+          "oklch(60.71% 0.0029 264.54)",
+          "oklch(72.14% 0.0029 264.54)",
+          "oklch(83.57% 0.0029 264.54)",
+          "oklch(95.00% 0.0029 264.54)"
+        ]
+      },
+      "selection": {
+        "role": "neutral",
+        "displayName": "selection",
+        "tonalRamp": [
+          "oklch(15.00% 0.0538 263.23)",
+          "oklch(26.43% 0.0538 263.23)",
+          "oklch(37.86% 0.0538 263.23)",
+          "oklch(49.29% 0.0538 263.23)",
+          "oklch(60.71% 0.0538 263.23)",
+          "oklch(72.14% 0.0538 263.23)",
+          "oklch(83.57% 0.0538 263.23)",
+          "oklch(95.00% 0.0538 263.23)"
+        ]
+      },
+      "scrollbar": {
+        "role": "neutral",
+        "displayName": "scrollbar",
+        "tonalRamp": [
+          "oklch(15.00% 0.0383 255.99)",
+          "oklch(26.43% 0.0383 255.99)",
+          "oklch(37.86% 0.0383 255.99)",
+          "oklch(49.29% 0.0383 255.99)",
+          "oklch(60.71% 0.0383 255.99)",
+          "oklch(72.14% 0.0383 255.99)",
+          "oklch(83.57% 0.0383 255.99)",
+          "oklch(95.00% 0.0383 255.99)"
+        ]
+      },
+      "error": {
+        "role": "neutral",
+        "displayName": "error",
+        "tonalRamp": [
+          "oklch(15.00% 0.1390 27.97)",
+          "oklch(26.43% 0.1390 27.97)",
+          "oklch(37.86% 0.1390 27.97)",
+          "oklch(49.29% 0.1390 27.97)",
+          "oklch(60.71% 0.1390 27.97)",
+          "oklch(72.14% 0.1390 27.97)",
+          "oklch(83.57% 0.1390 27.97)",
+          "oklch(95.00% 0.1390 27.97)"
+        ]
+      },
+      "edge": {
+        "role": "neutral",
+        "displayName": "edge",
+        "tonalRamp": [
+          "oklch(15.00% 0.0465 249.61)",
+          "oklch(26.43% 0.0465 249.61)",
+          "oklch(37.86% 0.0465 249.61)",
+          "oklch(49.29% 0.0465 249.61)",
+          "oklch(60.71% 0.0465 249.61)",
+          "oklch(72.14% 0.0465 249.61)",
+          "oklch(83.57% 0.0465 249.61)",
+          "oklch(95.00% 0.0465 249.61)"
+        ]
+      },
+      "community-01": {
+        "role": "secondary",
+        "displayName": "community-01",
+        "tonalRamp": [
+          "oklch(15.00% 0.0787 191.66)",
+          "oklch(26.43% 0.0787 191.66)",
+          "oklch(37.86% 0.0787 191.66)",
+          "oklch(49.29% 0.0787 191.66)",
+          "oklch(60.71% 0.0787 191.66)",
+          "oklch(72.14% 0.0787 191.66)",
+          "oklch(83.57% 0.0787 191.66)",
+          "oklch(95.00% 0.0787 191.66)"
+        ]
+      },
+      "community-02": {
+        "role": "secondary",
+        "displayName": "community-02",
+        "tonalRamp": [
+          "oklch(15.00% 0.1259 38.17)",
+          "oklch(26.43% 0.1259 38.17)",
+          "oklch(37.86% 0.1259 38.17)",
+          "oklch(49.29% 0.1259 38.17)",
+          "oklch(60.71% 0.1259 38.17)",
+          "oklch(72.14% 0.1259 38.17)",
+          "oklch(83.57% 0.1259 38.17)",
+          "oklch(95.00% 0.1259 38.17)"
+        ]
+      },
+      "community-03": {
+        "role": "secondary",
+        "displayName": "community-03",
+        "tonalRamp": [
+          "oklch(15.00% 0.1008 264.10)",
+          "oklch(26.43% 0.1008 264.10)",
+          "oklch(37.86% 0.1008 264.10)",
+          "oklch(49.29% 0.1008 264.10)",
+          "oklch(60.71% 0.1008 264.10)",
+          "oklch(72.14% 0.1008 264.10)",
+          "oklch(83.57% 0.1008 264.10)",
+          "oklch(95.00% 0.1008 264.10)"
+        ]
+      },
+      "community-04": {
+        "role": "secondary",
+        "displayName": "community-04",
+        "tonalRamp": [
+          "oklch(15.00% 0.0918 313.07)",
+          "oklch(26.43% 0.0918 313.07)",
+          "oklch(37.86% 0.0918 313.07)",
+          "oklch(49.29% 0.0918 313.07)",
+          "oklch(60.71% 0.0918 313.07)",
+          "oklch(72.14% 0.0918 313.07)",
+          "oklch(83.57% 0.0918 313.07)",
+          "oklch(95.00% 0.0918 313.07)"
+        ]
+      },
+      "community-05": {
+        "role": "secondary",
+        "displayName": "community-05",
+        "tonalRamp": [
+          "oklch(15.00% 0.1146 87.70)",
+          "oklch(26.43% 0.1146 87.70)",
+          "oklch(37.86% 0.1146 87.70)",
+          "oklch(49.29% 0.1146 87.70)",
+          "oklch(60.71% 0.1146 87.70)",
+          "oklch(72.14% 0.1146 87.70)",
+          "oklch(83.57% 0.1146 87.70)",
+          "oklch(95.00% 0.1146 87.70)"
+        ]
+      },
+      "community-06": {
+        "role": "secondary",
+        "displayName": "community-06",
+        "tonalRamp": [
+          "oklch(15.00% 0.1113 137.54)",
+          "oklch(26.43% 0.1113 137.54)",
+          "oklch(37.86% 0.1113 137.54)",
+          "oklch(49.29% 0.1113 137.54)",
+          "oklch(60.71% 0.1113 137.54)",
+          "oklch(72.14% 0.1113 137.54)",
+          "oklch(83.57% 0.1113 137.54)",
+          "oklch(95.00% 0.1113 137.54)"
+        ]
+      },
+      "community-07": {
+        "role": "secondary",
+        "displayName": "community-07",
+        "tonalRamp": [
+          "oklch(15.00% 0.1386 357.80)",
+          "oklch(26.43% 0.1386 357.80)",
+          "oklch(37.86% 0.1386 357.80)",
+          "oklch(49.29% 0.1386 357.80)",
+          "oklch(60.71% 0.1386 357.80)",
+          "oklch(72.14% 0.1386 357.80)",
+          "oklch(83.57% 0.1386 357.80)",
+          "oklch(95.00% 0.1386 357.80)"
+        ]
+      },
+      "community-08": {
+        "role": "secondary",
+        "displayName": "community-08",
+        "tonalRamp": [
+          "oklch(15.00% 0.1002 236.89)",
+          "oklch(26.43% 0.1002 236.89)",
+          "oklch(37.86% 0.1002 236.89)",
+          "oklch(49.29% 0.1002 236.89)",
+          "oklch(60.71% 0.1002 236.89)",
+          "oklch(72.14% 0.1002 236.89)",
+          "oklch(83.57% 0.1002 236.89)",
+          "oklch(95.00% 0.1002 236.89)"
+        ]
+      },
+      "community-09": {
+        "role": "secondary",
+        "displayName": "community-09",
+        "tonalRamp": [
+          "oklch(15.00% 0.0608 86.23)",
+          "oklch(26.43% 0.0608 86.23)",
+          "oklch(37.86% 0.0608 86.23)",
+          "oklch(49.29% 0.0608 86.23)",
+          "oklch(60.71% 0.0608 86.23)",
+          "oklch(72.14% 0.0608 86.23)",
+          "oklch(83.57% 0.0608 86.23)",
+          "oklch(95.00% 0.0608 86.23)"
+        ]
+      },
+      "community-10": {
+        "role": "secondary",
+        "displayName": "community-10",
+        "tonalRamp": [
+          "oklch(15.00% 0.1000 66.55)",
+          "oklch(26.43% 0.1000 66.55)",
+          "oklch(37.86% 0.1000 66.55)",
+          "oklch(49.29% 0.1000 66.55)",
+          "oklch(60.71% 0.1000 66.55)",
+          "oklch(72.14% 0.1000 66.55)",
+          "oklch(83.57% 0.1000 66.55)",
+          "oklch(95.00% 0.1000 66.55)"
+        ]
+      },
+      "community-11": {
+        "role": "secondary",
+        "displayName": "community-11",
+        "tonalRamp": [
+          "oklch(15.00% 0.0514 161.71)",
+          "oklch(26.43% 0.0514 161.71)",
+          "oklch(37.86% 0.0514 161.71)",
+          "oklch(49.29% 0.0514 161.71)",
+          "oklch(60.71% 0.0514 161.71)",
+          "oklch(72.14% 0.0514 161.71)",
+          "oklch(83.57% 0.0514 161.71)",
+          "oklch(95.00% 0.0514 161.71)"
+        ]
+      },
+      "community-12": {
+        "role": "secondary",
+        "displayName": "community-12",
+        "tonalRamp": [
+          "oklch(15.00% 0.0625 24.77)",
+          "oklch(26.43% 0.0625 24.77)",
+          "oklch(37.86% 0.0625 24.77)",
+          "oklch(49.29% 0.0625 24.77)",
+          "oklch(60.71% 0.0625 24.77)",
+          "oklch(72.14% 0.0625 24.77)",
+          "oklch(83.57% 0.0625 24.77)",
+          "oklch(95.00% 0.0625 24.77)"
+        ]
+      },
+      "community-13": {
+        "role": "secondary",
+        "displayName": "community-13",
+        "tonalRamp": [
+          "oklch(15.00% 0.0738 275.43)",
+          "oklch(26.43% 0.0738 275.43)",
+          "oklch(37.86% 0.0738 275.43)",
+          "oklch(49.29% 0.0738 275.43)",
+          "oklch(60.71% 0.0738 275.43)",
+          "oklch(72.14% 0.0738 275.43)",
+          "oklch(83.57% 0.0738 275.43)",
+          "oklch(95.00% 0.0738 275.43)"
+        ]
+      },
+      "community-14": {
+        "role": "secondary",
+        "displayName": "community-14",
+        "tonalRamp": [
+          "oklch(15.00% 0.0710 343.01)",
+          "oklch(26.43% 0.0710 343.01)",
+          "oklch(37.86% 0.0710 343.01)",
+          "oklch(49.29% 0.0710 343.01)",
+          "oklch(60.71% 0.0710 343.01)",
+          "oklch(72.14% 0.0710 343.01)",
+          "oklch(83.57% 0.0710 343.01)",
+          "oklch(95.00% 0.0710 343.01)"
+        ]
+      },
+      "community-15": {
+        "role": "secondary",
+        "displayName": "community-15",
+        "tonalRamp": [
+          "oklch(15.00% 0.1089 125.96)",
+          "oklch(26.43% 0.1089 125.96)",
+          "oklch(37.86% 0.1089 125.96)",
+          "oklch(49.29% 0.1089 125.96)",
+          "oklch(60.71% 0.1089 125.96)",
+          "oklch(72.14% 0.1089 125.96)",
+          "oklch(83.57% 0.1089 125.96)",
+          "oklch(95.00% 0.1089 125.96)"
+        ]
+      },
+      "community-16": {
+        "role": "secondary",
+        "displayName": "community-16",
+        "tonalRamp": [
+          "oklch(15.00% 0.0834 210.06)",
+          "oklch(26.43% 0.0834 210.06)",
+          "oklch(37.86% 0.0834 210.06)",
+          "oklch(49.29% 0.0834 210.06)",
+          "oklch(60.71% 0.0834 210.06)",
+          "oklch(72.14% 0.0834 210.06)",
+          "oklch(83.57% 0.0834 210.06)",
+          "oklch(95.00% 0.0834 210.06)"
+        ]
+      },
+      "community-17": {
+        "role": "secondary",
+        "displayName": "community-17",
+        "tonalRamp": [
+          "oklch(15.00% 0.1087 21.37)",
+          "oklch(26.43% 0.1087 21.37)",
+          "oklch(37.86% 0.1087 21.37)",
+          "oklch(49.29% 0.1087 21.37)",
+          "oklch(60.71% 0.1087 21.37)",
+          "oklch(72.14% 0.1087 21.37)",
+          "oklch(83.57% 0.1087 21.37)",
+          "oklch(95.00% 0.1087 21.37)"
+        ]
+      },
+      "community-18": {
+        "role": "secondary",
+        "displayName": "community-18",
+        "tonalRamp": [
+          "oklch(15.00% 0.1066 292.40)",
+          "oklch(26.43% 0.1066 292.40)",
+          "oklch(37.86% 0.1066 292.40)",
+          "oklch(49.29% 0.1066 292.40)",
+          "oklch(60.71% 0.1066 292.40)",
+          "oklch(72.14% 0.1066 292.40)",
+          "oklch(83.57% 0.1066 292.40)",
+          "oklch(95.00% 0.1066 292.40)"
+        ]
+      },
+      "community-19": {
+        "role": "secondary",
+        "displayName": "community-19",
+        "tonalRamp": [
+          "oklch(15.00% 0.0629 83.52)",
+          "oklch(26.43% 0.0629 83.52)",
+          "oklch(37.86% 0.0629 83.52)",
+          "oklch(49.29% 0.0629 83.52)",
+          "oklch(60.71% 0.0629 83.52)",
+          "oklch(72.14% 0.0629 83.52)",
+          "oklch(83.57% 0.0629 83.52)",
+          "oklch(95.00% 0.0629 83.52)"
+        ]
+      },
+      "community-20": {
+        "role": "secondary",
+        "displayName": "community-20",
+        "tonalRamp": [
+          "oklch(15.00% 0.0810 239.17)",
+          "oklch(26.43% 0.0810 239.17)",
+          "oklch(37.86% 0.0810 239.17)",
+          "oklch(49.29% 0.0810 239.17)",
+          "oklch(60.71% 0.0810 239.17)",
+          "oklch(72.14% 0.0810 239.17)",
+          "oklch(83.57% 0.0810 239.17)",
+          "oklch(95.00% 0.0810 239.17)"
+        ]
+      },
+      "community-21": {
+        "role": "secondary",
+        "displayName": "community-21",
+        "tonalRamp": [
+          "oklch(15.00% 0.1029 351.48)",
+          "oklch(26.43% 0.1029 351.48)",
+          "oklch(37.86% 0.1029 351.48)",
+          "oklch(49.29% 0.1029 351.48)",
+          "oklch(60.71% 0.1029 351.48)",
+          "oklch(72.14% 0.1029 351.48)",
+          "oklch(83.57% 0.1029 351.48)",
+          "oklch(95.00% 0.1029 351.48)"
+        ]
+      },
+      "community-22": {
+        "role": "secondary",
+        "displayName": "community-22",
+        "tonalRamp": [
+          "oklch(15.00% 0.0587 149.54)",
+          "oklch(26.43% 0.0587 149.54)",
+          "oklch(37.86% 0.0587 149.54)",
+          "oklch(49.29% 0.0587 149.54)",
+          "oklch(60.71% 0.0587 149.54)",
+          "oklch(72.14% 0.0587 149.54)",
+          "oklch(83.57% 0.0587 149.54)",
+          "oklch(95.00% 0.0587 149.54)"
+        ]
+      },
+      "community-23": {
+        "role": "secondary",
+        "displayName": "community-23",
+        "tonalRamp": [
+          "oklch(15.00% 0.1016 60.81)",
+          "oklch(26.43% 0.1016 60.81)",
+          "oklch(37.86% 0.1016 60.81)",
+          "oklch(49.29% 0.1016 60.81)",
+          "oklch(60.71% 0.1016 60.81)",
+          "oklch(72.14% 0.1016 60.81)",
+          "oklch(83.57% 0.1016 60.81)",
+          "oklch(95.00% 0.1016 60.81)"
+        ]
+      },
+      "community-24": {
+        "role": "secondary",
+        "displayName": "community-24",
+        "tonalRamp": [
+          "oklch(15.00% 0.0453 211.81)",
+          "oklch(26.43% 0.0453 211.81)",
+          "oklch(37.86% 0.0453 211.81)",
+          "oklch(49.29% 0.0453 211.81)",
+          "oklch(60.71% 0.0453 211.81)",
+          "oklch(72.14% 0.0453 211.81)",
+          "oklch(83.57% 0.0453 211.81)",
+          "oklch(95.00% 0.0453 211.81)"
+        ]
+      },
+      "community-25": {
+        "role": "secondary",
+        "displayName": "community-25",
+        "tonalRamp": [
+          "oklch(15.00% 0.0842 301.55)",
+          "oklch(26.43% 0.0842 301.55)",
+          "oklch(37.86% 0.0842 301.55)",
+          "oklch(49.29% 0.0842 301.55)",
+          "oklch(60.71% 0.0842 301.55)",
+          "oklch(72.14% 0.0842 301.55)",
+          "oklch(83.57% 0.0842 301.55)",
+          "oklch(95.00% 0.0842 301.55)"
+        ]
+      },
+      "community-26": {
+        "role": "secondary",
+        "displayName": "community-26",
+        "tonalRamp": [
+          "oklch(15.00% 0.0708 62.34)",
+          "oklch(26.43% 0.0708 62.34)",
+          "oklch(37.86% 0.0708 62.34)",
+          "oklch(49.29% 0.0708 62.34)",
+          "oklch(60.71% 0.0708 62.34)",
+          "oklch(72.14% 0.0708 62.34)",
+          "oklch(83.57% 0.0708 62.34)",
+          "oklch(95.00% 0.0708 62.34)"
+        ]
+      },
+      "community-27": {
+        "role": "secondary",
+        "displayName": "community-27",
+        "tonalRamp": [
+          "oklch(15.00% 0.0502 264.04)",
+          "oklch(26.43% 0.0502 264.04)",
+          "oklch(37.86% 0.0502 264.04)",
+          "oklch(49.29% 0.0502 264.04)",
+          "oklch(60.71% 0.0502 264.04)",
+          "oklch(72.14% 0.0502 264.04)",
+          "oklch(83.57% 0.0502 264.04)",
+          "oklch(95.00% 0.0502 264.04)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "页面标题",
+        "purpose": "中文工作台标题；手机缩至 24px。"
+      },
+      "body": {
+        "displayName": "正文",
+        "purpose": "操作与说明；阅读段落使用 1.85 行高。"
+      }
+    },
+    "shadows": [],
+    "motion": [],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1000px"
+      },
+      {
+        "name": "mobile",
+        "value": "720px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "默认按钮",
+      "kind": "button",
+      "refersTo": "button",
+      "description": "图形操作与次要动作。",
+      "html": "<button class=\"ds-button\">适应画布</button>",
+      "css": ".ds-button{font:14px/1.6 \"PingFang SC\",\"Microsoft YaHei\",sans-serif;border:1px solid var(--line,#d7e1ee);border-radius:6px;min-height:40px;padding:7px 12px;background:var(--paper,#fff);color:var(--ink,#172b45);cursor:pointer;}.ds-button:hover{background:var(--soft,#eaf1fc)}.ds-button:focus-visible{outline:3px solid var(--focus,#245bc0);outline-offset:3px}"
+    },
+    {
+      "name": "选中视图按钮",
+      "kind": "button",
+      "refersTo": "button-selected",
+      "description": "表示当前网络视图。",
+      "html": "<button class=\"ds-selected\" aria-pressed=\"true\">社区概览</button>",
+      "css": ".ds-selected{font:14px/1.6 \"PingFang SC\",\"Microsoft YaHei\",sans-serif;border:1px solid var(--line,#d7e1ee);border-radius:6px;min-height:40px;padding:7px 12px;background:var(--paper,#fff);color:var(--ink,#172b45);cursor:pointer;background:var(--blue,#245bc0);color:#fff;border-color:var(--blue,#245bc0)}.ds-selected:hover{background:var(--blue,#245bc0)}.ds-selected:focus-visible{outline:3px solid var(--focus,#245bc0);outline-offset:3px}"
+    },
+    {
+      "name": "节点搜索",
+      "kind": "input",
+      "refersTo": "search-input",
+      "description": "有可见标签的全宽搜索输入。",
+      "html": "<label class=\"ds-label\" for=\"ds-search\">查找节点</label><input class=\"ds-search\" id=\"ds-search\" type=\"search\" placeholder=\"输入节点编号或类型，如 Domain\">",
+      "css": ".ds-label{display:block;font:14px/1.6 \"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-weight:600;margin-bottom:6px;color:var(--ink,#172b45)}.ds-search{font:14px/1.6 \"PingFang SC\",\"Microsoft YaHei\",sans-serif;border:1px solid var(--line,#d7e1ee);border-radius:6px;min-height:40px;padding:7px 12px;background:var(--paper,#fff);color:var(--ink,#172b45);cursor:pointer;cursor:text;min-width:0;width:100%;caret-color:var(--blue,#245bc0)}.ds-search::placeholder{color:var(--muted,#526781)}.ds-search:focus-visible{outline:3px solid var(--focus,#245bc0);outline-offset:3px}"
+    },
+    {
+      "name": "视图导航",
+      "kind": "nav",
+      "refersTo": "button",
+      "description": "两个并列原生按钮构成视图切换。",
+      "html": "<nav class=\"ds-nav\" aria-label=\"网络视图\"><button aria-pressed=\"true\">社区概览</button><button aria-pressed=\"false\">节点网络</button></nav>",
+      "css": ".ds-nav{display:flex;gap:6px}.ds-nav button{font:14px/1.6 \"PingFang SC\",\"Microsoft YaHei\",sans-serif;border:1px solid var(--line,#d7e1ee);border-radius:6px;min-height:40px;padding:7px 12px;background:var(--paper,#fff);color:var(--ink,#172b45);cursor:pointer;}.ds-nav button:hover{background:var(--soft,#eaf1fc)}.ds-nav button[aria-pressed=true]{background:var(--blue,#245bc0);color:#fff;border-color:var(--blue,#245bc0)}.ds-nav button:focus-visible{outline:3px solid var(--focus,#245bc0);outline-offset:3px}"
+    },
+    {
+      "name": "社区选中行",
+      "kind": "custom",
+      "refersTo": "community-row-selected",
+      "description": "社区色点、编号与规模组成可操作列表；示例不伪造数据。",
+      "html": "<button class=\"ds-row\" aria-pressed=\"true\"><span class=\"ds-dot\"></span><span>社区 1</span><small>节点数量</small></button>",
+      "css": ".ds-row{font:14px/1.6 \"PingFang SC\",\"Microsoft YaHei\",sans-serif;border:1px solid var(--line,#d7e1ee);border-radius:6px;min-height:40px;padding:7px 12px;background:var(--paper,#fff);color:var(--ink,#172b45);cursor:pointer;display:grid;grid-template-columns:14px 1fr auto;gap:9px;align-items:center;text-align:left;width:100%;border:0;border-radius:5px;min-height:43px;background:var(--soft,#eaf1fc);color:var(--blue,#245bc0);font-variant-numeric:tabular-nums}.ds-row:hover{background:var(--soft,#eaf1fc)}.ds-row:focus-visible{outline:3px solid var(--focus,#245bc0);outline-offset:3px}.ds-dot{width:10px;height:10px;border-radius:50%;background:#287c79}.ds-row small{color:var(--muted,#526781)}"
+    },
+    {
+      "name": "详情面板",
+      "kind": "card",
+      "refersTo": "detail-panel",
+      "description": "数据详情与初始引导的统一容器。",
+      "html": "<section class=\"ds-detail\"><h2>从一个社区开始</h2><p>点击圆或右侧列表，查看社区内外连接。</p></section>",
+      "css": ".ds-detail{font:14px/1.6 \"PingFang SC\",\"Microsoft YaHei\",sans-serif;color:var(--ink,#172b45);background:var(--paper,#fff);border:1px solid var(--line,#d7e1ee);border-radius:12px;padding:22px}.ds-detail h2{font-size:17px;line-height:1.4;margin:0 0 12px}.ds-detail p{margin:8px 0;color:var(--muted,#526781);max-width:75ch}"
+    }
+  ],
+  "narrative": {
+    "northStar": "明亮科学图谱",
+    "overview": "以明亮、清晰的科学图谱承载可操作的数据关系。灰蓝背景衬托白色工作面，细边界组织信息，分类色服务社区识别。中文系统字体与直接的操作标签使探索和阅读保持连续。",
+    "keyCharacteristics": [
+      "白色工作面与灰蓝底色",
+      "分类色与编号共同标识社区",
+      "平面分区、细边界、清晰焦点",
+      "图形探索与中文说明互相补充"
+    ],
+    "rules": [
+      {
+        "name": "The Category Rule",
+        "body": "社区颜色表示身份，编号和文字共同传达信息，不表示优劣。",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do 保持社区编号、颜色和文字说明在不同视图中一致。",
+      "Do 为图形提供社区列表、搜索与详情等文字访问路径。",
+      "Do 用明确的暂停、缩放和适应画布操作支持探索。",
+      "Do 保留中文解释中的数据含义和限制。"
+    ],
+    "donts": [
+      "Don't 用社区颜色的深浅暗示质量或优劣。",
+      "Don't 将布局距离描述为相似度或算法准确率。",
+      "Don't 引入装饰插画、浮动阴影或覆盖数据的装饰层。"
+    ]
+  }
+}
